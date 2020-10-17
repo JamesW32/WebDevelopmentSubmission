@@ -12,6 +12,6 @@ The functionality of the website includes:
 
 The code isn't perfect and does display minor flaws but these are here for future learning possibilities and for good understanding for people looking to learn any of the functionality displayed earlier.
 
-FYI!- This code has been submitted for academic grading and any students wanting to take some of this code could risk getting caught for plagirism so please dont. refer and implement your code with reference to mine if planning to do so.
+FYI!- This code has been submitted for academic grading and any students wanting to take some of this code could risk getting caught for plagirism so please dont. Refer and implement your code with reference to mine if planning to do so.
 
 Any Questions about the code feel free to Email me: Jameswood78000@hotmail.com
